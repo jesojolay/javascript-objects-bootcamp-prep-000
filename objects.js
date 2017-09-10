@@ -1,5 +1,5 @@
-var playlist = {}
+var playlist = {};
 
 function updatePlaylist(obj, artist, song){
-    
+
 }
