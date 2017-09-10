@@ -1,5 +1,4 @@
 var playlist = {
-    Madeon: "La Lune";
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
